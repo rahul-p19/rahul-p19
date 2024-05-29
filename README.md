@@ -1,5 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Work+Sans&size=35&duration=3497&pause=1000&color=F77051&center=true&repeat=false&random=false&width=435&lines=Hello!+I'm+Rahul+Pandey)](https://git.io/typing-svg)
-<h3 align="center">An undergrad from Jadavpur University</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=Work+Sans&size=35&duration=3497&pause=1000&color=F77051&multiline=true&repeat=false&random=false&width=435&lines=Hello!+I'm+Rahul+Pandey" alt="Typing SVG" class="intro"/>
+
+<h3>An undergrad from Jadavpur University</h3>
 
 - 🌱 I’m currently learning **JavaScript**
 
