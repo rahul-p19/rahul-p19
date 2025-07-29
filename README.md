@@ -1,6 +1,6 @@
 # Rahul Pandey
 
-Currently learning full stack web development.
+Full Stack Developer.
 
 > Portfolio - [https://rahulpandey.tech](https://rahulpandey.tech)
 
@@ -10,20 +10,20 @@ Currently learning full stack web development.
   
 > Languages
   
-  C, C++, Java, JavaScript, TypeScript
+  C, C++, Java, JavaScript, TypeScript, SQL
   <br>
   
   > Frontend
   
-  HTML, CSS, TailwindCSS, EJS, ReactJS
+  HTML, CSS, TailwindCSS, EJS, ReactJS, NextJS, GSAP
   <br>
   
   > Backend
 
-  NodeJS, ExpressJS, NextJS, MongoDB, PostgreSQL, Prisma
+  NodeJS, ExpressJS, NextJS, MongoDB, PostgreSQL, Prisma, Spring Boot
   <br>
 
   > Tools
 
-  Git, GitHub, Bash
+  Git, GitHub, Bash, Docker, Nginx, AWS, GCP, GitHub Actions
 </p>
