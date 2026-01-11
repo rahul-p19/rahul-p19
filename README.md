@@ -2,7 +2,7 @@
 
 Full Stack Developer.
 
-> Portfolio - [https://rahulpandey.tech](https://rahulpandey.tech)
+> Portfolio - [https://rahul-pandey.me](https://rahul-pandey.me)
 
 ## Tech Stack
 
